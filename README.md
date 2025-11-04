@@ -1,2 +1,7 @@
 # AI-Deep-Learning
-Deep learning experiments using neural networks architectures.
+Deep learning projects and experiments using modern neural network architectures.
+
+## Technologies
+- TensorFlow
+- PyTorch
+- Keras
